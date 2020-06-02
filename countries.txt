@@ -12,3 +12,12 @@ wales
 ireland
 portugal
 france
+japan
+australia
+argentina
+netherlands
+switzerland
+croatia
+iceland
+norway
+poland
