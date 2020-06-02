@@ -1,0 +1,17 @@
+eagle
+heron
+seagull
+sparrow
+starling
+peacock
+woodpecker
+kingfisher
+blackbird
+kookaburra
+greenfinch
+goldfinch
+chaffinch
+magpie
+wren
+goldcrest
+albatross
