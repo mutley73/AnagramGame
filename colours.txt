@@ -1,0 +1,10 @@
+green
+blue
+black
+yellow
+red
+maroon
+aqua
+brown
+grey
+orange
