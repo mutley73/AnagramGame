@@ -8,3 +8,12 @@ aqua
 brown
 grey
 orange
+aquamarine
+white
+burgundy
+cream
+silver
+purple
+pink
+turquoise
+magenta

@@ -21,3 +21,10 @@ croatia
 iceland
 norway
 poland
+greenland
+sweden
+austria
+vietnam
+india
+egypt
+malaysia
